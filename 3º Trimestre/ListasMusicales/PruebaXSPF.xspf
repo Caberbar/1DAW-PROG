@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>Billie Jean - Michael Jackson</title>
+            <duration>273000</duration>
+            <location>C:\Users\Usuario\Documents\PruebaXSPF.xspf</location>
+        </track>
+        <track>
+            <title>Imagine - Ariana Grande</title>
+            <duration>198000</duration>
+            <location>C:\Users\Usuario\Documents\PruebaXSPF.xspf</location>
+        </track>
+        <track>
+            <title>Shape of You - Ed Sheeran</title>
+            <duration>213000</duration>
+            <location>C:\Users\Usuario\Documents\PruebaXSPF.xspf</location>
+        </track>
+        <track>
+            <title>Despacito - Luis Fonsi ft. Daddy Yankee</title>
+            <duration>210000</duration>
+            <location>C:\Users\Usuario\Documents\PruebaXSPF.xspf</location>
+        </track>
+        <track>
+            <title>Viva la Vida - Coldplay</title>
+            <duration>240000</duration>
+            <location>C:\Users\Usuario\Documents\PruebaXSPF.xspf</location>
+        </track>
+    </trackList>
+</playlist>

@@ -1,0 +1,15 @@
+Esto es un fichero de texto.
+Estamos probando a leer y escribir datos en este fichero.
+En primer lugar probaremos a leer todo su contenido.
+A continuación vamos a probar a escribir algo que quiera el usuario.
+Hola que tal, esto es una prueba de escritura
+No estamos escribiendo mucho, pero a ver si funciona
+Estamos escribiendo datos en el fichero
+Otra vez, esto se está añadiendo al final del fichero.
+Esto es lo último que escribo.
+hola
+adios
+exit
+hola
+adios
+exit

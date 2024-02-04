@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<raiz xmlns="http://xspf.org/ns/0/" version="1">
+    <NombreGente genero="HOMBRE">
+        AGUSTIN SALGADO
+        <Calle>CARRETERA HORNO, 60</Calle>
+        <Numero>707032137</Numero>
+    </NombreGente>
+    <NombreGente genero="MUJER">
+        ELISABETH BONET
+        <Calle>CALLEJA REAL, 45</Calle>
+        <Numero>689089135</Numero>
+    </NombreGente>
+    <NombreGente genero="MUJER">
+        MARIA JOSEFA LOZANO
+        <Calle>RONDA NUEVA, 62</Calle>
+        <Numero>787768919</Numero>
+    </NombreGente>
+</raiz>

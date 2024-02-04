@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JDialogFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="122" max="-2" attributes="0"/>
+                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jlLimite" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jlNombre" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jlDNI" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jlPin" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jlNúmero" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="116" max="32767" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="jtfNúmero" max="32767" attributes="0"/>
+                          <Component id="jtfPin" max="32767" attributes="0"/>
+                          <Component id="jtfDNI" max="32767" attributes="0"/>
+                          <Component id="jtfNombre" max="32767" attributes="0"/>
+                          <Component id="jsLimite" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="76" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="115" max="-2" attributes="0"/>
+              <Component id="jbCrear" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="jbSalir" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
+              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="25" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jlNombre" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jtfNombre" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jlDNI" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jtfDNI" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="jlPin" min="-2" max="-2" attributes="0"/>
+                  <Component id="jtfPin" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jlLimite" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jsLimite" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jlNúmero" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jtfNúmero" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="33" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jbCrear" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jbSalir" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="CREACI&#xd3;N TARJETA CREDITO"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jlNombre">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nombre - titular:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jlDNI">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="DNI/NIF/CIF: "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jlPin">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="PIN:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jlLimite">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Limite gasto:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jlN&#xfa;mero">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="N&#xfa;mero tajeta:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JSpinner" name="jsLimite">
+      <Properties>
+        <Property name="model" type="javax.swing.SpinnerModel" editor="org.netbeans.modules.form.editors2.SpinnerModelEditor">
+          <SpinnerModel initial="500" maximum="5000" minimum="500" numberType="java.lang.Integer" stepSize="5" type="number"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jtfNombre">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jtfDNI">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jtfPin">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jtfN&#xfa;mero">
+    </Component>
+    <Component class="javax.swing.JButton" name="jbCrear">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Crear"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jbCrearActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jbSalir">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Salir"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jbSalirActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
